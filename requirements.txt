@@ -1,2 +1,2 @@
-ibm-cloud-sdk-core==3.3.1
-ibm-vpc==0.2.0
+ibm_cloud_sdk_core==3.3.1
+ibm_vpc>=0.2.0
